@@ -1,11 +1,11 @@
 import Navbar from "./components/Navbar";
 import ScrollToTop from "./components/ScrollToTop";
-import Main from "./components/Main";
+import DateDiffCalculator from "./components/Main";
 function App() {
   return (
     <>
       <Navbar />
-      <Main />
+      <DateDiffCalculator />
       <ScrollToTop />
 
     </>
